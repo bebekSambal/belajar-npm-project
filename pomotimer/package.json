@@ -1,0 +1,18 @@
+{
+  "name": "pomotimer",
+  "version": "1.0.0",
+  "description": "ya gitu dech",
+  "main": "index.js",
+  "scripts": {
+    "test": "not yet"
+  },
+  "keywords": [
+    "fomo"
+  ],
+  "author": "ahris",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "node-notifier": "^10.0.1"
+  }
+}
